@@ -31,3 +31,4 @@ Please download and install the latest version(4.x or higher) of **Thonny**. ([
         Mac: [thonny-4.1.4.pkg](https://prereqs.codemash.org/Files/thonny-4.1.4.pkg)
 
         Linux instructions can be found at the above link.
+        
