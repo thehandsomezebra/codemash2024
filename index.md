@@ -1,14 +1,8 @@
 
 
-Here's all of the presentations that speakers provided slides for:
-https://codemash.org/2024-session-slides/
 
 
-
-
-
-
-Tuesday:
+# Tuesday:
 
 AM
 	[[Building Applications on Top of Large Language Models (LLMs) (Part 1)]] (no notes to share; this was interactive 4 hr training block)
@@ -22,7 +16,7 @@ PM
 
 
 
-Wednesday:
+# Wednesday:
 
 AM
 	[[Mad Scientist Lab With Raspberry Pi Pico Microcontrollers]] (no notes to share; this was interactive 4 hr training block)
@@ -37,7 +31,7 @@ LIGHTNING TALKS <-- I was mentioned in one of the talks by a long-time codemashe
 
 ---
 
-Thursday
+# Thursday
 
 8-9 
 	[[Java Anti Patterns]] (took a few pics of slides, but left early)
@@ -74,7 +68,7 @@ SECRET RAVE
 
 ---
 
-Friday
+# Friday
 
 8:30-9:30
 	[[Writing Secure APIs - A Look at the OWASP 2023 API Top 10 List]]
@@ -84,3 +78,17 @@ Friday
 	[[Platform as a Product- The future of Agile and DevOps]]
 
 DROVE HOME EARLY: SNOWSTORM!
+
+
+
+
+
+---
+## Curious about other things that went on?
+
+
+Here's all of the presentations that speakers provided slides for:
+https://codemash.org/2024-session-slides/
+
+
+
