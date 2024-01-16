@@ -1,4 +1,5 @@
 
+
 Here's all of the presentations that speakers provided slides for:
 https://codemash.org/2024-session-slides/
 
@@ -58,7 +59,7 @@ LUNCH
 
 
 2:15-3:00
-	SKIPPED, talked to Kyle in the hallway. This was a sponsor session hour.
+	SKIPPED, This was a sponsor session hour.
 
 3:30-4:30
 	[[Out of Control- How to rescue a struggling software project]]
