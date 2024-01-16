@@ -22,3 +22,32 @@ If time allows, we'll look into more complicated examples of malware analysis an
 Some knowledge of C# and x86 assembly is helpful but not required! Come out for a half day of reverse engineering fun!
 
 Room: Cypress**Tags:** Hardware, SecurityLevel: Intermediate
+
+---
+REQUIREMENTS
+We'd prefer the attendees have a way to run Linux binaries - this can be Windows Subsystem for Linux ([https://learn.microsoft.com/en-us/windows/wsl/install](https://learn.microsoft.com/en-us/windows/wsl/install)) or something like Kali Linux in a VM ([https://www.kali.org/get-kali/](https://www.kali.org/get-kali/))
+
+Note that if you plan to actually do CTF's after CodeMash, the VM is a better option and Kali is useful in other ways.
+
+**dotpeek:** ([https://www.jetbrains.com/decompiler/download/#section=web-installer](https://www.jetbrains.com/decompiler/download/#section=web-installer))
+
+        Windows: [dotPeek64.2023.3.1.exe](https://prereqs.codemash.org/Files/dotPeek64.2023.3.1.exe)
+
+        Mac: dotpeek is Windows only. If you need cross platform alternatives - please contact the speaker in the [CodeMash Discord!](https://discord.gg/RbZENJ8c73)
+
+
+IlSpy worked out well for me, using a mac
+
+
+
+**Ghidra:** ([https://ghidra-sre.org/](https://ghidra-sre.org/))
+
+**Installation Notes:** ([https://htmlpreview.github.io/?https://github.com/NationalSecurityAgency/ghidra/blob/Ghidra_10.4_build/GhidraDocs/InstallationGuide.html#Requirements](https://htmlpreview.github.io/?https://github.com/NationalSecurityAgency/ghidra/blob/Ghidra_10.4_build/GhidraDocs/InstallationGuide.html#Requirements))
+
+        Windows and Mac: [ghidra_10.4_PUBLIC_20230928.zip](https://prereqs.codemash.org/Files/ghidra_10.4_PUBLIC_20230928.zip)
+
+        Linux: [ghidra-Ghidra_10.4_build.tar.gz](https://prereqs.codemash.org/Files/ghidra-Ghidra_10.4_build.tar.gz)
+
+
+
+https://ctfd.kd8bfn.org/challenges

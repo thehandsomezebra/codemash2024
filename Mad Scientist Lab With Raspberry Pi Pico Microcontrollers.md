@@ -15,3 +15,19 @@ Carefully plugging the wires into the bread board, doubt seeps in, “should the
 Amazing experiences like this and more can be yours in this session. You’ll get to create your own awesome game with sharks and lasers using the Raspberry Pi Pico microcontroller and a variety of other electrical components. Learn to merge electronics and software in beautiful harmony. The Pi Pico is an inexpensive microcontroller that can run MicroPython to control a plethora of electrical doodads. If you want to bring your code into the real world with crazy inventions, come to this session to get the foundational skills you need to release your inner mad scientist!
 
 Room: Nile**Tags:** Python, Hardware, IoTLevel: Intermediate
+
+
+---
+
+
+Basically you just need the simple Python editor called Thonny which allows you write code on your laptop and execute it on the Pico via a USB cable. USB cables will be provided just make sure you have a laptop with Thonny installed and an available USB jack on your laptop. We will have a few USB C to USB A adapters for those with only tiny ports. We will not have Mac dongles so make sure you have a way to connect a USB A cable into your laptop.
+
+Please download and install the latest version(4.x or higher) of **Thonny**. ([https://thonny.org/](https://thonny.org/))
+
+        Windows 64 bit: [thonny-4.1.4-windows-portable.zip](https://prereqs.codemash.org/Files/thonny-4.1.4-windows-portable.zip)
+
+        Windows 32 bit: [thonny-py38-4.1.4-windows-portable.zip](https://prereqs.codemash.org/Files/thonny-py38-4.1.4-windows-portable.zip)
+
+        Mac: [thonny-4.1.4.pkg](https://prereqs.codemash.org/Files/thonny-4.1.4.pkg)
+
+        Linux instructions can be found at the above link.

@@ -11,10 +11,10 @@ https://codemash.org/2024-session-slides/
 Tuesday:
 
 AM
-	[[Building Applications on Top of Large Language Models (LLMs) (Part 1)]]
+	[[Building Applications on Top of Large Language Models (LLMs) (Part 1)]] (no notes to share; this was interactive 4 hr training block)
 
 PM
-	[[Binary Analysis - Learn to break stuff]]
+	[[Binary Analysis - Learn to break stuff]] (no notes to share; this was interactive 4 hr training block)
 
 
 ---
@@ -25,10 +25,10 @@ PM
 Wednesday:
 
 AM
-	[[Mad Scientist Lab With Raspberry Pi Pico Microcontrollers]]
+	[[Mad Scientist Lab With Raspberry Pi Pico Microcontrollers]] (no notes to share; this was interactive 4 hr training block)
 
 PM
-	[[Thinking Architecturally]]
+	[[Thinking Architecturally]] 
 
 LIGHTNING TALKS <-- I was mentioned in one of the talks by a long-time codemasher (https://twitter.com/minsko) as the girl with the NFC tag in her hand
 
